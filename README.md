@@ -1,4 +1,5 @@
-# README
+# Mini-Project2-Networks-Lab-CS39006-IIT-Kgp
+This was one of my mini projects in the Networks Laboratory (CS39006) at IIT Kharagpur. The project involved creating a command line based simple emailing system.
 
 Server concurrency:
 Uses select() in one process to handle multiple clients.
